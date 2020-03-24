@@ -13,9 +13,9 @@ De centrale spørgsmål i situationen er:
 2) Hvor stort bliver **behovet** for behandling (prognose)
 3) Hvor stor **overskudskapacitet** har vi til at behandle COVID-19 patienterne og samtidig behandle de "normale" 
 patienter? (virkemidler under samfundets kontrol)
-4) Hvor hurtigt og hvordan kan vi *øge kapaciteten*? 
-5) Hvor meget kan vi *reducere behandlingsbehovet* (udgangsforbud mv.)
-6) Hvilke scenarier er der (ud over "solskinsscenariet"), og hvilke tiltag skal vi sætte i værk i dag for at være 
+4) Hvor hurtigt og hvordan kan vi **øge kapaciteten**? 
+5) Hvor meget kan vi **reducere behandlingsbehovet** (udgangsforbud mv.)
+6) Hvilke **scenarier** er der (ud over "solskinsscenariet"), og hvilke tiltag skal vi sætte i værk i dag for at være 
 beredt hvis noget går galt?
 
 Og endelig:
