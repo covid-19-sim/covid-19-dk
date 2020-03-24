@@ -1,0 +1,10 @@
+name: covid-19-dk
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
+
