@@ -7,4 +7,4 @@ dependencies:
   - matplotlib
   - pandas
   - seaborn
-
+  - jupyter
