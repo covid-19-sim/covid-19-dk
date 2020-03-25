@@ -1,8 +1,7 @@
-# COVID-19 Danmark
+# COVID-19 i Danmark
 
-Vi modellerer og visualisere scenarier omkring COVID-19 i Danmark for at formidle og synliggøre situationen og
-afvejelserne ved forskellige mulige løsninger.
-
+Vi modellerer og visualiserer scenarier omkring COVID-19 i Danmark for at formidle 
+og synliggøre situationen og afvejelserne ved forskellige mulige løsninger.
 
 # De essentielle spørgsmål
 En leders opgave er at stille de rigtige spørgsmål.
