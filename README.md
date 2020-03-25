@@ -9,7 +9,7 @@ En leders opgave er at stille de rigtige spørgsmål.
 
 De centrale spørgsmål i situationen er:
 
-1) Hvor er vi nu? (data)
+1) Hvor er vi nu? (**situationen**: data)
 2) Hvor stort bliver **behovet** for behandling (prognose)
 3) Hvor stor **overskudskapacitet** har vi til at behandle COVID-19 patienterne og samtidig behandle de "normale" 
 patienter? (virkemidler under samfundets kontrol)
@@ -20,7 +20,8 @@ beredt hvis noget går galt?
 
 Og endelig:
 
-- Hvordan kommer vi foran bolden, så vi kan handle oplyst ud fra en overordnet plan og vision for alle relevante scenarier?
+- Hvordan kommer vi foran bolden, så vi kan handle oplyst ud fra en overordnet plan og vision 
+for alle relevante scenarier?
 
 Når man reflekterer over denne ramme, er der rig inspiration til at formulere og teste hypoteser og scenarier.
 
@@ -31,8 +32,8 @@ Må det blive til inspiration og nytte!
 ## Forbedrede COVID-19 prognoser til folket og ministrene
 
 Her modellerer vi epidemikurven, og undersøger hvordan det kan gå, og hvad der kan ske, og hvad vi kan gøre.
-Vi genimplementerer Sundhedsstyrelsens og Statens Seruminstituts modelberegning, og fremlægger en korrigeret model til 
-*peer review*.
+Vi genimplementerer Sundhedsstyrelsens og Statens Seruminstituts modelberegning som frit tilgængelig 
+kode til *peer review*.
 
 Se [prognoser](prognoser/README.md) mappen.
 
@@ -40,7 +41,7 @@ Se [prognoser](prognoser/README.md) mappen.
 Du kan hjælpe med. For eksempel ved:
 - *kontrol* og *kritik* af modellen
 - *replikering* af modelberegningerne for at sikre, at de er korrekt og fyldestgørende   
-- *opstille nye spørgsmål og hypoteser*
+- *opstille nye spørgsmål og hypoteser* 
 - bedre *visualisering af data* 
 
 # Hvorfor?
@@ -55,8 +56,6 @@ Fordelene ved dette konkrete projekt er:
 har manøvrerum.
 - Det kan hjælpe med bedre at **formidle situationen og løsningsmulighederne** til befolkningen.
 - Det er interessant matematisk modellering.
-
-
 
 
 # Hvem står bag
@@ -89,7 +88,5 @@ se [`environment.yml`](environment.yml) for det præcise miljø.
 Miljøet kan etableres således:
 
     conda env create -f environment.yml
-
- 
 
  
