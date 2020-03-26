@@ -9,12 +9,16 @@ beregningerne og udvider med de manglende scenarier.
 Statens prognose er overordnet beskrevet i notatet *Håndtering af COVID-19: Prognose og kapacitet i Danmark for intensiv
 terapi* (findes i kopi her: [ITA_COVID_19_220320.pdf](ITA_COVID_19_220320.pdf), ellers 
 henvises til litteraturlisten nedenfor).
- 
+
+### Angrebsraten 
 Notatet nævner, at pandemier erfaringsmæssigt rammer 10-30% af befolkningen (*angrebsraten*) i første bølge, men så 
 regner de kun efterfølgende på solskinsscenariet 10%. Sundhedsstyrelsen har tidligere meldt ud, at de regner med en 
 *worst case* på 20% angrebsrate, men det scenarie behandles ikke, ej heller 30% scenariet, som der åbenbart er 
 erfaring for er relevant.
- 
+
+Prognosen er baseret på erfaringer fra Kina (side 3, nederst). De officielle kinesiske tal tages således 
+for pålydende.
+
 ### Opgaveformulering SIR-model
 Vi genimplementerer modellen som kontrol af resultaterne i notatet, tester den mod de empiriske observationer
 og beregner de manglende scenarier.
