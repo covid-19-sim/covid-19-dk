@@ -25,6 +25,12 @@ og beregner de manglende scenarier.
 
 Modellen er i [ssi_prognose_2020_03_22.ipynb](ssi_prognose_2020_03_22.ipynb)
  
+ 
+## Eksponentiel prognose
+Dette er en simpel, kortsigtet prognose for antal dødsfald.
+
+Modellen findes i [eksponentiel_prognose.ipynb](eksponentiel_prognose.ipynb).
+
 ## Litteratur
 
 - Sundhedsstyrelsens notat, *Håndtering af COVID-19: Prognose og kapacitet i Danmark for intensiv terapi* 
