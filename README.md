@@ -49,13 +49,13 @@ Alle må hjælpe hvor de kan.
 
 Fordelene ved dette konkrete projekt er:
 
+- Det giver **bedre information** da vi modsat Sundhedsstyrelsen kan levere **dagsaktuelle prognoser**.  
 - Det skaber **transparens** omkring situationen og beslutningsgrundlaget for den nærmeste fremtid.
 - Det skaber **tryghed**, når myndighedernes beslutningsgrundlag er åbent og udsat for _peer review_.
 - Det er **rettidig omhu** at vi som borgere er beredte og hjælper til i tide, inden situationen rammer os og vi stadig 
 har manøvrerum.
 - Det kan hjælpe med bedre at **formidle situationen og løsningsmulighederne** til befolkningen.
-- Det er interessant matematisk modellering.
-
+- Det er **interessant** matematisk modellering.
 
 # Hvem står bag
 
