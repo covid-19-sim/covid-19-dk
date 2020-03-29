@@ -1,4 +1,6 @@
-# COVID-19 i Danmark
+# COVID-19-situationen i Danmark
+
+**COVID-19 situationen i Danmark. Dagsaktuelle data og prognoser uden *spin* og skønmaleri.,**
 
 Vi modellerer og visualiserer scenarier omkring COVID-19 i Danmark for at formidle 
 og synliggøre situationen og afvejelserne ved forskellige mulige løsninger.
@@ -31,6 +33,7 @@ Må det blive til inspiration og nytte!
 ## Forbedrede COVID-19 prognoser
 
 Her modellerer vi epidemikurven, og undersøger hvordan det kan gå, og hvad der kan ske, og hvad vi kan gøre.
+
 Vi genimplementerer Sundhedsstyrelsens og Statens Seruminstituts modelberegning som frit tilgængelig 
 kode til *peer review*.
 
