@@ -52,13 +52,21 @@ Dette svarer de ikke på - faktisk snakker de meget om "røde" og "grønne" kurv
 sundhedsvæsenet bryder sammen på grund af overefterspørgsel, den grønne er en lavere, hvor behandlingsbehovet holder 
 sig under sundhedsvæsenets kapacitet). 
 
-Notatet nævner, at vi er på den "grønne kurve", men viser ikke prognosen. 
+Notatet nævner, at vi er på den "grønne kurve", men viser ikke prognosen, de nævner blot (p. 26): 
 
-Det er ellers det essentielle i beslutningsgrundlaget for de folkevalgte og regeringen, og som dokumentation
-og information til  borgerne, der er frataget deres levebrød, så længe Danmark holder lukket.  
+> Det forventes, at der fortsat vil ses en stigning i antal påviste tilfælde, antal indlagte og intensiv patienter 
+> i den kommende uge.Uden indgreb vil epidemien toppe først eller midt i april, men nu med indgreb forventes det at 
+> blive en senere top, eller et affladet forløb.
 
-I presseudlægningen og beslutningstagernes forståelse står det således bedre til, end hvis man selv regner efter
-og udfylder de dele af prognosen, de har udeladt i notatet.
+SIR-modellen kan nemt beregne prognosen, så det giver ikke mening at udelade den, da den kvantificerer det 
+uhåndterbare begreb "den grønne kurve" og  er essensen i beslutningsgrundlaget for de folkevalgte og regeringen, 
+og som dokumentation og information til  borgerne, der er frataget deres levebrød, så længe Danmark holder lukket.  
+
+Vi regner efter, og ser, om presseudlægningens og beslutningstagernes optimistiske udmeldinger
+om situationen har noget på sig.
+
+Modellen findes i [ssi_prognose_2020_03_30.ipynb](ssi_prognose_2020_03_30.ipynb)
+
 
 ## Litteratur
 
