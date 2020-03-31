@@ -20,8 +20,6 @@ Prognosen regner på erfaringer fra Kina (side 3, nederst), hvor de officielle k
 Desuden regnes på italienske tal, der pakket ind i embedsmandssprog er "mere sammenlignelige" med danske forhold.
 
 Desværre forklarer notatet ikke modellen til fulde, men vi gætter på, at der er tale om en SIR-model.
-### Røde og grønne kurver
-Notatet viser kurver, men 
 
 ### Opgaveformulering SIR-model
 Vi genimplementerer modellen som kontrol af resultaterne i notatet, tester den mod de empiriske observationer
@@ -49,7 +47,7 @@ SIR-model, hvilket vi i sidste uge var nødt til at antage ud fra de noget vage 
 Notatet sætter en ny dato for **epidemistarten** til primo marts, da man har fundet COVID-19 positive de 
 de løbende influenzaprøver, der tages i det såkaldte "sentinelprogram".
 
-## Hvor længe skal Danmark være lukket?
+### Hvor længe skal Danmark være lukket?
 Dette svarer de ikke på - faktisk snakker de meget om "røde" og "grønne" kurver (den røde er den hurtige epidemi, hvor
 sundhedsvæsenet bryder sammen på grund af overefterspørgsel, den grønne er en lavere, hvor behandlingsbehovet holder 
 sig under sundhedsvæsenets kapacitet). 
