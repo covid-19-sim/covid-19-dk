@@ -73,8 +73,34 @@ TODO
 
 # Hjælp os
 
-TODO
- 
+## Udvikling
+Kom i gang med at arbejde med dine egne modeller
+
+### Brug af Anaconda (anbefales til Windows)
+Installer 
+* [Anaconda Scientific Python](https://anaconda.org/)
+* [Jupyter notebooks](https://jupyter.org/). 
+
+se [`environment.yml`](environment.yml) for det præcise miljø.
+
+Miljøet kan etableres således:
+
+    conda env create -f environment.yml
+
+
+### Standard Python
+Opsætning af milnjø:
+```shell script
+python3 -mvenv venv
+. venv/bin/activate
+pip install -r requirements.txt
+``` 
+
+Udvikling med Jupyter:
+```shell script
+jupyter notebook
+```
+
 # Kontaktinformationer
 
 Martin Jul, se [www.mjul.com](http://www.mjul.com)
@@ -83,12 +109,5 @@ Martin Jul, se [www.mjul.com](http://www.mjul.com)
 
 Modellerne er bygget med Python 3 med de gængse databehandlingsværktøjer 
 NumPy, Pandas, SciPy, Matplotlib, Seaborn, Jupyter osv.
-
-Koden er udviklet med [Anaconda Scientific Python](https://anaconda.org/) og [Jupyter notebooks](https://jupyter.org/). 
-se [`environment.yml`](environment.yml) for det præcise miljø.
-
-Miljøet kan etableres således:
-
-    conda env create -f environment.yml
 
  
