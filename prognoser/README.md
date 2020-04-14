@@ -80,3 +80,6 @@ Udgivet på Sundhedsstyrelsens [hjemmeside](https://www.sst.dk/da/Udgivelser/202
 Selve notatet er hentet fra Sundhedsstyrelsens hjemmeside på adressen 
 https://www.sst.dk/-/media/Udgivelser/2020/Corona/Status-og-strategi/Status_COVID19_femte-uge.ashx?la=da&hash=2889D7E5580B1450EB896A3A1EB69A1E4ADA93F6
 
+- Folketingets Sundheds- og Ældreudvalg har haft held til at få uddybende dokumentation om beregningerne direkte fra 
+Statens Seruminstitut uden om det redaktionelle filter i Sundhedsstyrelsen. Dokumenterne kan hentes på Folketingets 
+hjemmeside: [Sundheds- og Ældreudvalget Samling 2019-20 Alm.del bilag 317](https://www.ft.dk/samling/20191/almdel/SUU/bilag/317/index.htm)
