@@ -74,9 +74,16 @@ Modellen findes i [ssi_prognose_2020_03_30.ipynb](ssi_prognose_2020_03_30.ipynb)
 (22. marts 2020, Sagsnr. 4-0101-33) hentet fra [Statens Seruminstitut](https://www.sst.dk/-/media/Nyheder/2020/ITA_COVID_19_220320.ashx?la=da&hash=633349284353F4D8559B231CDA64169D327F1227)
 på adressen https://www.sst.dk/-/media/Nyheder/2020/ITA_COVID_19_220320.ashx?la=da&hash=633349284353F4D8559B231CDA64169D327F1227
 
-
 - Sundhedsstyrelsens notat, *COVID-19 i Danmark - Status ved indgang til 5. epidemiuge*  (30. marts 2020, elektronisk ISBN: 978-87-7014-164-2). 
 Udgivet på Sundhedsstyrelsens [hjemmeside](https://www.sst.dk/da/Udgivelser/2020/COVID-19-Status-paa-epidemien-uge-5). 
 Selve notatet er hentet fra Sundhedsstyrelsens hjemmeside på adressen 
 https://www.sst.dk/-/media/Udgivelser/2020/Corona/Status-og-strategi/Status_COVID19_femte-uge.ashx?la=da&hash=2889D7E5580B1450EB896A3A1EB69A1E4ADA93F6
 
+- Sundhedsstyrelsens notat, *COVID-19 i Danmark - Status ved indgang til 6. epidemiuge. 7. april 2020*  (7. april 2020, elektronisk ISBN: 978-87-7014-165-9). 
+Udgivet på Sundhedsstyrelsens [hjemmeside](https://www.sst.dk/da/Udgivelser/2020/COVID-19-Status-paa-epidemien-uge-6). 
+Selve notatet er hentet fra Sundhedsstyrelsens hjemmeside på adressen 
+https://www.sst.dk/-/media/Udgivelser/2020/Corona/Status-og-strategi/COVID19_Status-6-uge.ashx?la=da&hash=6819E71BFEAAB5ACA55BD6161F38B75F1EB05999
+
+- Folketingets Sundheds- og Ældreudvalg har haft held til at få uddybende dokumentation om beregningerne direkte fra 
+Statens Seruminstitut uden om det redaktionelle filter i Sundhedsstyrelsen. Dokumenterne kan hentes på Folketingets 
+hjemmeside: [Sundheds- og Ældreudvalget Samling 2019-20 Alm.del bilag 317](https://www.ft.dk/samling/20191/almdel/SUU/bilag/317/index.htm)
