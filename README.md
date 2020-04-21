@@ -74,8 +74,14 @@ TODO
 # Hjælp os
 
 ## Udvikling
-Kom i gang med at arbejde med dine egne modeller
+Kom i gang med at arbejde med dine egne modeller.
 
+Systemet kræver Python. XKCD forklarer essensen her: [XKCD om Python miljøer](https://xkcd.com/1987/).
+
+![XKCD 1987](https://imgs.xkcd.com/comics/python_environment.png)
+
+https://imgs.xkcd.com/comics/python_environment.png
+ 
 ### Brug af Anaconda (anbefales til Windows)
 Installer 
 * [Anaconda Scientific Python](https://anaconda.org/)
@@ -89,7 +95,7 @@ Miljøet kan etableres således:
 
 
 ### Standard Python
-Opsætning af milnjø:
+Opsætning af miljø:
 ```shell script
 python3 -mvenv venv
 . venv/bin/activate
