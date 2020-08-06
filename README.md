@@ -97,13 +97,13 @@ Miljøet kan etableres således:
 ### Standard Python
 Opsætning af miljø:
 ```shell script
-python3 -mvenv venv
-. venv/bin/activate
-pip install -r requirements.txt
+pipenv--three
+pipenv install
 ``` 
 
 Udvikling med Jupyter:
 ```shell script
+pipenv shell
 jupyter notebook
 ```
 
